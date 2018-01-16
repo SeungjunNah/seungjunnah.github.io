@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Seungjun Nah
 
-You can use the [editor on GitHub](https://github.com/SeungjunNah/seungjunnah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ph.D student, advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/professor/)  
+Department of ECE, SNU, Seoul, Korea  
+email: seungjun.nah@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications (Selected)
 
-### Markdown
+* Bee Lim, Sanghyun Son, Heewon Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Enhanced Deep Residual Networks for Single Image Super-Resolution," CVPRW 2017 (NTIRE 2017 challenge winners, Workshop best paper)  
+* **Seungjun Nah**, Tae Hyun Kim, and Kyoung Mu Lee, "Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring," CVPR 2017 (spotlight presentation)  
+* Tae Hyun Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model," PAMI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Research Interests
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeungjunNah/seungjunnah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am interested in machine learning based approaches to low-level computer vision problems. My recent research topics are visual quality enhancements, including deblurring & super-resolution.

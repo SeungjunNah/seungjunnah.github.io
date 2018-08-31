@@ -1,14 +1,15 @@
 
-<!-- <img align="right" width="250" height=250 src="./snah.png"> -->
+<!-- <img align="right" width="250" height=250 src="images/snah.png"> -->
 
 # Seungjun Nah
 
-<img align="right" width="250" height=250 src="./snah.png">
+<!-- <img align="right" width="250" height=250 src="images/snah.png"> -->
 
 ## Ph.D candidate
 Department of ECE, SNU, Seoul, Korea  
-**seungjun.nah@gmail.com**\
-[Google Scholar](https://scholar.google.co.kr/citations?user=hEr2AKsAAAAJ&hl=en)\
+email: **seungjun.nah@gmail.com**
+
+[Google Scholar](https://scholar.google.co.kr/citations?user=hEr2AKsAAAAJ&hl=en) \
 [CV](cv.pdf)
 
 I am a Ph.D student majoring in computer vision at SNU computer vision group, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).

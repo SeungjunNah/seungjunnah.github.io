@@ -1,11 +1,14 @@
+<img align="right" width=250 src="snah.png">
+
 # Seungjun Nah
 
 ## Ph.D candidate
 Department of ECE, SNU, Seoul, Korea  
-**seungjun.nah@gmail.com**
+**seungjun.nah@gmail.com**\
+[Google Scholar](https://scholar.google.co.kr/citations?user=hEr2AKsAAAAJ&hl=en)\
+[CV](cv.pdf)
 
-
-I am a Ph.D student majoring in computer vision at SNU computer vision group, advised by [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
+I am a Ph.D student majoring in computer vision at SNU computer vision group, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
 
 
 ### Publications (Selected)

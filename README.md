@@ -1,7 +1,9 @@
 
-<img align="right" width="250" height=250 src="./snah.png">
+<!-- <img align="right" width="250" height=250 src="./snah.png"> -->
 
 # Seungjun Nah
+
+<img align="right" width="250" height=250 src="./snah.png">
 
 ## Ph.D candidate
 Department of ECE, SNU, Seoul, Korea  

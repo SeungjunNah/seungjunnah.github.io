@@ -1,4 +1,5 @@
-<img align="right" width=250 src="snah.png">
+
+<img align="right" width="250" height=250 src="./snah.png">
 
 # Seungjun Nah
 

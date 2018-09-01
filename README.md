@@ -1,8 +1,6 @@
 
 <!-- <img align="right" width="250" height=250 src="images/snah.png"> -->
 
-<!-- {% avatar SeungjunNah size=50 %} -->
-
 # Seungjun Nah
 ![avatar](https://avatars1.githubusercontent.com/u/8789158?s=400&v=4){: height="250px" width="250px"}
 <!-- <img align="right" width="250" height=250 src="images/snah.png"> -->

@@ -2,7 +2,11 @@
 <!-- <img align="right" width="250" height=250 src="images/snah.png"> -->
 
 # Seungjun Nah
-![avatar](https://avatars1.githubusercontent.com/u/8789158?s=400&v=4){: height="250px" width="250px"}
+![avatar](https://avatars1.githubusercontent.com/u/8789158?s=400&v=4){: height="250px" width="250px" .align-right}
+<!-- <p align="right">
+    <img src="https://avatars1.githubusercontent.com/u/8789158?s=400&v=4" width="256">
+</p> -->
+
 <!-- <img align="right" width="250" height=250 src="images/snah.png"> -->
 
 ## Ph.D candidate

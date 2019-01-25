@@ -16,8 +16,14 @@ email: **seungjun.nah@gmail.com**
 [Google Scholar](https://scholar.google.co.kr/citations?user=hEr2AKsAAAAJ&hl=en) \
 [CV](cv.pdf)
 
-I am a Ph.D student majoring in computer vision at SNU computer vision group, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
+I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
 
+### News
+
+I am co-organizing the [4th NTIRE workshop and challenges](http://www.vision.ee.ethz.ch/ntire19/) in conjunction with CVPR 2019. \
+We are providing a newly released dataset for the video restoration challenges. Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https://scholar.google.co.kr/citations?user=2f2D258AAAAJ&hl=en), [Sanghyun Son](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ&hl=en) and [Kyoung Mu Lee](https://scholar.google.co.kr/citations?user=Hofj9kAAAAAJ&hl=en)) for collecting, processing and releasing the dataset together.
+
+<img src="images/NTIRE2019.jpg">
 
 ### Publications (Selected)
 

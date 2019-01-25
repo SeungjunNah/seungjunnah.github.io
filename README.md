@@ -20,10 +20,12 @@ I am a Ph.D student majoring in computer vision at SNU computer vision lab, advi
 
 ### News
 
-I am co-organizing the [4th NTIRE workshop and challenges](http://www.vision.ee.ethz.ch/ntire19/) in conjunction with CVPR 2019. \
-We are providing a newly released dataset for the video restoration challenges. Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https://scholar.google.co.kr/citations?user=2f2D258AAAAJ&hl=en), [Sanghyun Son](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ&hl=en) and [Kyoung Mu Lee](https://scholar.google.co.kr/citations?user=Hofj9kAAAAAJ&hl=en)) for collecting, processing and releasing the dataset together.
+I am co-organizing the [4th NTIRE workshop and challenges](http://www.vision.ee.ethz.ch/ntire19/) in conjunction with CVPR 2019.
+Check out our newly released dataset for the video restoration challenges. 
+The challenge winners will be awarded at the CVPR 2019 workshop.
+Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https://scholar.google.co.kr/citations?user=2f2D258AAAAJ&hl=en), [Sanghyun Son](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ&hl=en) and [Kyoung Mu Lee](https://scholar.google.co.kr/citations?user=Hofj9kAAAAAJ&hl=en)) for collecting, processing and releasing the dataset together.
 
-<img src="images/NTIRE2019.jpg">
+[<img src="images/NTIRE2019.jpg">](http://www.vision.ee.ethz.ch/ntire19/)
 
 ### Publications (Selected)
 

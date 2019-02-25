@@ -21,7 +21,7 @@ I am a Ph.D student majoring in computer vision at SNU computer vision lab, advi
 ### News
 
 I am co-organizing the [4th NTIRE workshop and challenges](http://www.vision.ee.ethz.ch/ntire19/) in conjunction with CVPR 2019.
-Check out our newly released dataset for the video restoration challenges. 
+Check out our newly released REDS dataset for the video restoration challenges. 
 The challenge winners will be awarded at the CVPR 2019 workshop.
 Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https://scholar.google.co.kr/citations?user=2f2D258AAAAJ&hl=en), [Sanghyun Son](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ&hl=en) and [Kyoung Mu Lee](https://scholar.google.co.kr/citations?user=Hofj9kAAAAAJ&hl=en)) for collecting, processing and releasing the dataset together.
 
@@ -29,10 +29,11 @@ Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https
 
 ### Publications (Selected)
 
+* **Seungjun Nah**, Sanghyun Son, and Kyoung Mu Lee, "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring," CVPR 2019
 * Sanghyun Son, **Seungjun Nah**, and Kyoung Mu Lee, "Clustering Convolutional Kernels to Compress Deep Neural Networks," ECCV 2018 [[github](https://github.com/thstkdgus35/clustering-kernels)]
+* Tae Hyun Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model," PAMI 2018
 * Bee Lim, Sanghyun Son, Heewon Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Enhanced Deep Residual Networks for Single Image Super-Resolution," CVPRW 2017 (NTIRE 2017 challenge winners, Workshop best paper) [[github](https://github.com/LimBee/NTIRE2017)]
 * **Seungjun Nah**, Tae Hyun Kim, and Kyoung Mu Lee, "Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring," CVPR 2017 (spotlight presentation) [[github](https://github.com/SeungjunNah/DeepDeblur_release)]
-* Tae Hyun Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model," PAMI
 
 
 ### Research Interests

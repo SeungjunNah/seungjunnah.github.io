@@ -29,6 +29,7 @@ Many thanks to my colleagues (Sungyong Baik, Seokil Hong, [Gyeongsik Moon](https
 
 ### Publications (Selected)
 
+* **Seungjun Nah**, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, and Kyoung Mu Lee, "NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study," CVPRW 2019
 * **Seungjun Nah**, Sanghyun Son, and Kyoung Mu Lee, "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring," CVPR 2019
 * Sanghyun Son, **Seungjun Nah**, and Kyoung Mu Lee, "Clustering Convolutional Kernels to Compress Deep Neural Networks," ECCV 2018 [[github](https://github.com/thstkdgus35/clustering-kernels)]
 * Tae Hyun Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model," PAMI 2018

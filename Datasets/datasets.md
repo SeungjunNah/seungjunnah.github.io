@@ -1,4 +1,4 @@
-# [Publications](publications) | [Datasets](Datasets/datasets) | [CV](../cv.pdf)
+# [Publications](../publications) | [Datasets](datasets) | [CV](../cv.pdf)
 
 ## Datasets
 

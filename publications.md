@@ -1,0 +1,10 @@
+# [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)  
+
+## Publications (Selected)
+
+* **Seungjun Nah**, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte and Kyoung Mu Lee, "NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study," CVPRW 2019 [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)]
+* **Seungjun Nah**, Sanghyun Son, and Kyoung Mu Lee, "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring," CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf)]
+* Sanghyun Son, **Seungjun Nah**, and Kyoung Mu Lee, "Clustering Convolutional Kernels to Compress Deep Neural Networks," ECCV 2018 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Son_Clustering_Kernels_for_ECCV_2018_paper.pdf)] [[github](https://github.com/thstkdgus35/clustering-kernels)]
+* Tae Hyun Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model," PAMI 2018 [[paper](https://cv.snu.ac.kr/publication/jour/2018/thkim_pami2018_dynamic.pdf)]
+* Bee Lim, Sanghyun Son, Heewon Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Enhanced Deep Residual Networks for Single Image Super-Resolution," CVPRW 2017 (**NTIRE 2017 challenge winners**, **workshop best paper**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf)] [[github](https://github.com/LimBee/NTIRE2017)]
+* **Seungjun Nah**, Tae Hyun Kim, and Kyoung Mu Lee, "Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring," CVPR 2017 (**spotlight presentation**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)] [[github](https://github.com/SeungjunNah/DeepDeblur_release)]

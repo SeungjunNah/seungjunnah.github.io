@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
 title: Seungjun Nah
-logo: https://avatars1.githubusercontent.com/u/8789158?s=400&v=4
-# description: <p><b>Ph. D. candidate</b><br>Department of ECE, SNU, Seoul, Korea</p>
 description: <p><b>Ph. D. candidate</b><br>Department of ECE, SNU, Seoul, Korea</p>
+logo: https://avatars1.githubusercontent.com/u/8789158?s=400&v=4
 show_downloads: false
 google_analytics: UA-143711627-1
 email: seungjun.nah@gmail.com
-github.is_user_page: True
-# markdown: kramdown

@@ -1,3 +1,5 @@
+# [Publications](../publications) | [Datasets](datasets) | [CV](../cv.pdf)
+
 ## REDS dataset
 
 We provide the **RE**alistic and **D**ynamic **S**cenes dataset for video deblurring and super-resolution. Train and validation subsets are publicly available.

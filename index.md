@@ -22,8 +22,8 @@ My recent research topics include deblurring, super-resolution, neural network a
 ## Community activities
 
 * **Conference reviewer**: CVPR, ICCV, SIGGRAPH Asia  
-* **Journal reviewer**: IJCV, TNNLS, TMM  
-* **Workshop co-organizer**: AIM 2019, NTIRE 2019  
+* **Journal reviewer**: IJCV, TIP, TMM, TNNLS  
+* **Workshop co-organizer**: NTIRE 2019, AIM 2019  
 
 ## News
 

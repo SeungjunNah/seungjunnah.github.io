@@ -14,7 +14,7 @@ I am a Ph.D student majoring in computer vision at SNU computer vision lab, advi
 I am interested in deep learning and low-level computer vision problems, especially visual quality enhancement. 
 My recent research topics include deblurring, super-resolution, neural network acceleration.
 
-## Community activities
+## Community Activities
 
 * **Conference reviewer**: CVPR, ICCV, SIGGRAPH Asia  
 * **Journal reviewer**: IJCV, TIP, TMM, TNNLS  

@@ -1,18 +1,13 @@
 
-<!-- ## [Publications](publications) - [Datasets](Datasets/datasets) - [Google Scholar](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en) - [CV](cv.pdf) -->
 # [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
 ---
-
-<!-- # Seungjun Nah -->
 
 Ph. D. candidate  
 Department of ECE, SNU, Seoul, Korea  
 email: **seungjun.nah@gmail.com**  
 Google scholar: **[profile](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**  
-<!-- **[Google scholar](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**   -->
 
 I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
-
 
 ## Research Interests
 
@@ -24,6 +19,12 @@ My recent research topics include deblurring, super-resolution, neural network a
 * **Conference reviewer**: CVPR, ICCV, SIGGRAPH Asia  
 * **Journal reviewer**: IJCV, TIP, TMM, TNNLS  
 * **Workshop co-organizer**: NTIRE 2019, AIM 2019  
+
+## Awards and Honors
+
+* **Best reviewer**: ICCV 2019  
+* **Highly cited paper award 2018**: Department of ECE, SNU  
+* **Challenge winner & best paper**: NTIRE 2017 Challenge on Single Image Super-Resolution
 
 ## News
 

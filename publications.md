@@ -2,6 +2,7 @@
 
 ## Publications (Selected)
 
+* **Seungjun Nah**, Sanghyun Son, Radu Timofte and Kyoung Mu Lee *et al.*, "AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results," ICCVW 2019 [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2019_vtsr.pdf)]
 * **Seungjun Nah**, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte and Kyoung Mu Lee, "NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study," CVPRW 2019 [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)]
 * **Seungjun Nah**, Sanghyun Son, and Kyoung Mu Lee, "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring," CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf)]
 * Sanghyun Son, **Seungjun Nah**, and Kyoung Mu Lee, "Clustering Convolutional Kernels to Compress Deep Neural Networks," ECCV 2018 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Son_Clustering_Kernels_for_ECCV_2018_paper.pdf)] [[github](https://github.com/thstkdgus35/clustering-kernels)]

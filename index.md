@@ -23,7 +23,7 @@ My recent research topics include deblurring, super-resolution, neural network a
 ## Awards and Honors
 
 * **Outstanding reviewer**: ICCV 2019  
-* **Highly cited paper award 2018**: Department of ECE, SNU  
+* **Highly cited paper award**: Department of ECE, SNU, 2018  
 * **Challenge winner & best paper**: NTIRE 2017 Challenge on Single Image Super-Resolution
 
 ## News

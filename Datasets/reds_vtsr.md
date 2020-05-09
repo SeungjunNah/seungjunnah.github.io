@@ -1,4 +1,5 @@
 # [Publications](../publications) | [Datasets](datasets) | [CV](../cv.pdf)
+___
 
 ## <font color="red">REDS_VTSR</font> dataset
 
@@ -30,8 +31,9 @@ Stay tuned for the updates!
 
 ## Reference
 
-If you find our dataset useful for your research, please cite our work:
+The **<font color="red">REDS_VTSR</font>** dataset was used in the AIM 2019 and AIM 2020 Challenges. If you find our dataset useful for your research, please consider citing our work:
 
+* **<font color="red">REDS_VTSR</font>** dataset and the AIM 2019 Challenge [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2019_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2005.01233)] [[slides](https://drive.google.com/file/d/1Y9Se8LPlDUWuaVzEcFvzHlCpD6X4-gOO/view?usp=sharing)]
 ```bibtex
 @InProceedings{Nah_2019_ICCV_Workshops_REDS_VTSR,
     author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},

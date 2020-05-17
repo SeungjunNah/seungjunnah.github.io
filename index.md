@@ -6,9 +6,9 @@ title: Seungjun Nah
 # [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
 ___
 
-Ph. D. candidate
-Department of ECE, SNU, Seoul, Korea
-email: **seungjun.nah@gmail.com**
+Ph. D. candidate  
+Department of ECE, SNU, Seoul, Korea  
+email: **seungjun.nah@gmail.com**  
 Google scholar: **[profile](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**
 
 I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).

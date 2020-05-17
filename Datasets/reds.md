@@ -3,6 +3,8 @@ ___
 
 ## <font color="red">REDS</font> dataset
 
+![Image](figs/REDS_dataset_v3.jpg)
+
 We provide the **<font color="red">RE</font>**alistic and **<font color="red">D</font>**ynamic **<font color="red">S</font>**cenes dataset for video deblurring and super-resolution. Train and validation subsets are publicly available.
 The dataset can be downloaded by running the python code or clicking the links below.
 Downloads are available via Google Drive and SNU CVLab server.

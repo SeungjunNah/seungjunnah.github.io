@@ -81,13 +81,13 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 }
 ```
 
-* NTIRE 2020 Image and Video Deblurring Challenge [[arXiv](https://arxiv.org/abs/2005.01244)]
+* NTIRE 2020 Image and Video Deblurring Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)]
 
 ```bibtex
 @InProceedings{Nah_2020_CVPR_Workshops_Deblur,
   author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
   title = {NTIRE 2020 Challenge on Image and Video Deblurring},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   month = {June},
   year = {2020}
 }

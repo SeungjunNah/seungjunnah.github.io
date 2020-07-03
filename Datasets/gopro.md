@@ -11,12 +11,19 @@ Training and Test set are publicly available.
 * [GOPRO_Large](https://drive.google.com/file/d/1H0PIXvJH4c40pk7ou6nAwoxuR4Qh_Sa2/view?usp=sharing): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
 * [GOPRO_Large_all](https://drive.google.com/file/d/1SlURvdQsokgsoyTosAaELc4zRjQz9T2U/view?usp=sharing): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
 
+### <font color="FireBrick">SNU CVLab Server</font>
+
+* [GOPRO_Large](https://cv.snu.ac.kr/~snah/Deblur/dataset/GOPRO_Large.zip): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
+* [GOPRO_Large_all](https://cv.snu.ac.kr/~snah/Deblur/dataset/GOPRO_Large_all.zip): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
+
+
 ## Reference
 
 The GOPRO_Large dataset was proposed in CVPR 2017. If you find our dataset useful for your research, please consider citing our work:
 * [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)
 * [supplementary](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Nah_Deep_Multi-Scale_Convolutional_2017_CVPR_supplemental.zip)
 * [slides](https://drive.google.com/file/d/1sj7l2tGgJR-8wTyauvnSDGpiokjOzX_C/view?usp=sharing)
+* [video](https://www.youtube.com/watch?v=L_YwOzRH28E&list=PLWTwxOOyqBYPh2xMPBMj-6L-CYRD48eAF)
 
 ```bibtex
 @InProceedings{Nah_2017_CVPR,

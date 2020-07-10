@@ -20,12 +20,13 @@ My recent research topics include deblurring, super-resolution, neural network a
 
 ## Community Activities
 
-* **Conference reviewer**: CVPR, ICCV, SIGGRAPH Asia
-* **Journal reviewer**: IJCV, TIP, TMM, TNNLS
-* **Workshop co-organizer**: [NTIRE 2019](https://data.vision.ee.ethz.ch/cvl/ntire19/), [NTIRE 2020](https://data.vision.ee.ethz.ch/cvl/ntire20/), [AIM 2019](https://data.vision.ee.ethz.ch/cvl/aim19/)
+* **Conference reviewer**: CVPR, ICCV, ECCV, SIGGRAPH Asia
+* **Journal reviewer**: IJCV, TIP, TMM, TNNLS, TVCJ
+* **Workshop co-organizer**: [NTIRE 2019](https://data.vision.ee.ethz.ch/cvl/ntire19/), [NTIRE 2020](https://data.vision.ee.ethz.ch/cvl/ntire20/), [AIM 2019](https://data.vision.ee.ethz.ch/cvl/aim19/), [AIM 2020](https://data.vision.ee.ethz.ch/cvl/aim20/)
 
 ## Awards and Honors
 
+* **Outstanding reviewer**: ECCV 2020
 * **Outstanding reviewer**: ICCV 2019
 * **Highly cited paper award**: Department of ECE, SNU, 2018
 * **Challenge winner & best paper**: NTIRE 2017 Challenge on Single Image Super-Resolution

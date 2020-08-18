@@ -45,7 +45,7 @@ Stay tuned for the updates!
 
 The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTIRE 2020 Challenges. If you find our dataset useful for your research, please consider citing our work:
 
-* **<font color="red">REDS</font>** dataset [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)] [[slides](https://drive.google.com/file/d/13F6UEyBDFGTiFDyxqLzrPiq4Y2-8BKQE/view?usp=sharing)]
+* **<font color="red">REDS</font>** dataset [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)] [[slides](https://drive.google.com/file/d/13F6UEyBDFGTiFDyxqLzrPiq4Y2-8BKQE/view?usp=sharing)] [[poster](https://drive.google.com/file/d/1rRd-6QoPqxJQCVIvxSXiaaxRIL4qGMsd/view?usp=sharing)]
 
 ```bibtex
 @InProceedings{Nah_2019_CVPR_Workshops_REDS,
@@ -81,7 +81,7 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 }
 ```
 
-* NTIRE 2020 Image and Video Deblurring Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)]
+* NTIRE 2020 Image and Video Deblurring Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)] [[slides](https://drive.google.com/file/d/1Ll3D1acvujQFXGoX-P2dRKJPcle3rH_B/view?usp=sharing)]
 
 ```bibtex
 @InProceedings{Nah_2020_CVPR_Workshops_Deblur,

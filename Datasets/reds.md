@@ -3,7 +3,8 @@ ___
 
 ## <font color="red">REDS</font> dataset
 
-![Image](figs/REDS_dataset_v3.jpg)
+<!-- ![Image](figs/REDS_dataset_v3.jpg) -->
+![Image](figs/REDS_dataset_v3.svg)
 
 We provide the **<font color="red">RE</font>**alistic and **<font color="red">D</font>**ynamic **<font color="red">S</font>**cenes dataset for video deblurring and super-resolution. Train and validation subsets are publicly available.
 The dataset can be downloaded by running the python code or clicking the links below.
@@ -30,7 +31,6 @@ Blur | [train_blur](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/train_blur.zi
 Blur + Compression | [train_blur_comp](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/train_blur_comp.zip) | [val_blur_comp](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/val_blur_comp.zip) | [test_blur_comp](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/test_blur_comp.zip)
 Low Resolution | [train_sharp_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/train_sharp_bicubic.zip) | [val_sharp_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/val_sharp_bicubic.zip) | [test_sharp_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/test_sharp_bicubic.zip)
 Blur + Low Resolution | [train_blur_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/train_blur_bicubic.zip) | [val_blur_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/val_blur_bicubic.zip) | [test_blur_bicubic](https://cv.snu.ac.kr/~snah/Deblur/dataset/REDS/test_blur_bicubic.zip)
-
 
 ## <font color="red">REDS</font> 120fps
 

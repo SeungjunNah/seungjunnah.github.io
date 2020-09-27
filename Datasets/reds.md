@@ -99,11 +99,11 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 
 ```bibtex
 @InProceedings{Nah_2019_CVPR_Workshops_SR,
-	author = {Nah, Seungjun and Timofte, Radu and Gu, Shuhang and Baik, Sungyong and Hong, Seokil and Moon, Gyeongsik and Son, Sanghyun and Lee, Kyoung Mu},
-	title = {NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results},
-	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-	month = {June},
-	year = {2019}
+  author = {Nah, Seungjun and Timofte, Radu and Gu, Shuhang and Baik, Sungyong and Hong, Seokil and Moon, Gyeongsik and Son, Sanghyun and Lee, Kyoung Mu},
+  title = {NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2019}
 }
 ```
 

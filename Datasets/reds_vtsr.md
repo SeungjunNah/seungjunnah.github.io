@@ -36,10 +36,21 @@ The **<font color="red">REDS_VTSR</font>** dataset was used in the AIM 2019 and 
 * **<font color="red">REDS_VTSR</font>** dataset and the AIM 2019 Challenge [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2019_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2005.01233)] [[slides](https://drive.google.com/file/d/1Y9Se8LPlDUWuaVzEcFvzHlCpD6X4-gOO/view?usp=sharing)]
 ```bibtex
 @InProceedings{Nah_2019_ICCV_Workshops_REDS_VTSR,
-    author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
-    title = {AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results},
-    booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
-    month = {Oct},
-    year = {2019}
+  author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
+  title = {AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+  month = {Oct},
+  year = {2019}
+}
+```
+
+* **<font color="red">REDS_VTSR</font>** AIM 2020 Challenge [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2020_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2009.12987)] [[slides](https://drive.google.com/file/d/1C4E21NlH2H2EoQ0TidNJmT1ruEOyac8M/view?usp=sharing)]
+```bibtex
+@InProceedings{Son_2020_ECCV_Workshops_VTSR,
+  author = {Son, Sanghyun and Lee, Jaerin and Nah, Seungjun and Timofte, Radu and Lee, Kyoung Mu},
+  title = {AIM 2020 Challenge on Video Temporal Super-Resolution},
+  booktitle = {European Conference on Computer Vision Workshops},
+  month = {Aug},
+  year = {2020}
 }
 ```

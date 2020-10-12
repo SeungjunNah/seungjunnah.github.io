@@ -13,8 +13,8 @@ Training and Test set are publicly available.
 
 ### <font color="FireBrick">SNU CVLab Server</font>
 
-* [GOPRO_Large](https://cv.snu.ac.kr/~snah/Deblur/dataset/GOPRO_Large.zip): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
-* [GOPRO_Large_all](https://cv.snu.ac.kr/~snah/Deblur/dataset/GOPRO_Large_all.zip): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
+* [GOPRO_Large](http://data.cv.snu.ac.kr:8008/webdav/dataset/GOPRO/GOPRO_Large.zip): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
+* [GOPRO_Large_all](http://data.cv.snu.ac.kr:8008/webdav/dataset/GOPRO/GOPRO_Large_all.zip): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
 
 
 ## Reference

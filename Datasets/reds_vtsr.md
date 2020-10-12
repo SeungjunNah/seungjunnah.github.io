@@ -18,9 +18,9 @@ Type | Train | Validation | Test
 
 Type | Train | Validation | Test
 -- | -- | -- | --
-15fps | [train_15fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/train_15fps.zip) | [val_15fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/val_15fps.zip) | [test_15fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/test_15fps.zip)
-30fps | [train_30fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/train_30fps.zip) | [val_30fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/val_30fps.zip) | test_30fps
-60fps | [train_60fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/train_60fps.zip) | [val_60fps](https://cv.snu.ac.kr/dataset/AIM_ICCV_2019/REDS_VTSR/val_60fps.zip) | test_60fps
+15fps | [train_15fps](http://data.cv.snu.ac.kr:8008/webdav/dataset/AIM_ICCV_2019/REDS_VTSR/train_15fps.zip) | [val_15fps](http://data.cv.snu.ac.kr:8008webdav//dataset/AIM_ICCV_2019/REDS_VTSR/val_15fps.zip) | [test_15fps](http://data.cv.snu.ac.kr:8008/webdav/dataset/AIM_ICCV_2019/REDS_VTSR/test_15fps.zip)
+30fps | [train_30fps](http://data.cv.snu.ac.kr:8008/webdav/dataset/AIM_ICCV_2019/REDS_VTSR/train_30fps.zip) | [val_30fps](http://data.cv.snu.ac.kr:8008webdav//dataset/AIM_ICCV_2019/REDS_VTSR/val_30fps.zip) | test_30fps
+60fps | [train_60fps](http://data.cv.snu.ac.kr:8008/webdav/dataset/AIM_ICCV_2019/REDS_VTSR/train_60fps.zip) | [val_60fps](http://data.cv.snu.ac.kr:8008webdav//dataset/AIM_ICCV_2019/REDS_VTSR/val_60fps.zip) | test_60fps
 
 
 ## Updates

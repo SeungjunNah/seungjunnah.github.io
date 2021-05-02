@@ -69,10 +69,12 @@ crf_inv[:, 0, 0]  # B
 crf_inv[:, 0, 1]  # G
 crf_inv[:, 0, 2]  # R
 ```
+![Image](reds/GoPro6_inverse_CRF.svg)
 
 * usage example (pytorch)  
 
 ```python
+crf_path = 'crf.pt'
 crf_inv = torch.from_numpy(torch.load(crf_path)).to(device, dtype).squeeze_()  # 256 x 3
 
 # 1st order approximation at RGB=250 to regularize extreme responses at RGB>250
@@ -81,6 +83,7 @@ for i in range(251, 256):
     crf_inv[i] = crf_inv[i-1] + diff
 
 ...
+# frame interpolation, etc.
 
 buffer_tensor = buffer_tensor.permute(0,2,3,1).reshape(-1, C).mul_(255).add_(0.5).clamp_(0, 255).long() # bad naming to save GPU memory
 buffer_tensor = torch.gather(crf_inv, 0, buffer_tensor).reshape(-1,H,W,C).permute(0,3,1,2)

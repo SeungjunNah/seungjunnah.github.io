@@ -3,6 +3,7 @@ ___
 
 ## Publications (Selected)
 
+* **Seungjun Nah**, Sanghyun Son, Jaerin Lee, and Kyoung Mu Lee, "Clean Images are Hard to Reblur: A New Clue for Deblurring," arXiv 2021 [[arXiv](https://arxiv.org/abs/2104.12665)]
 * Sanghyun Son, Jaerin Lee, **Seungjun Nah**, Radu Timofte and Kyoung Mu Lee *et al.*, "AIM 2020 Challenge on Video Temporal Super-Resolution," ECCVW 2020 [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2020_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2009.12987)] [[slides](https://drive.google.com/file/d/1C4E21NlH2H2EoQ0TidNJmT1ruEOyac8M/view?usp=sharing)]
 * **Seungjun Nah**, Sanghyun Son, Radu Timofte and Kyoung Mu Lee *et al.*, "NTIRE 2020 Challenge on Image and Video Deblurring," CVPRW 2020 [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)] [[arXiv](https://arxiv.org/abs/2005.01244)] [[slides](https://drive.google.com/file/d/1Ll3D1acvujQFXGoX-P2dRKJPcle3rH_B/view?usp=sharing)] [[video](https://youtu.be/z_naBdpqN2A)]
 * **Seungjun Nah**, Sanghyun Son, Radu Timofte and Kyoung Mu Lee *et al.*, "AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results," ICCVW 2019 [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2019_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2005.01233)] [[slides](https://drive.google.com/file/d/1Y9Se8LPlDUWuaVzEcFvzHlCpD6X4-gOO/view?usp=sharing)]

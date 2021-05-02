@@ -57,6 +57,35 @@ train_orig_part15.zip | [link](https://drive.google.com/file/d/1izQaGBPZpBj5Pmr0
 val_orig_part0.zip | [link](https://drive.google.com/file/d/1XqpCRaahvF1-mQMAeXfUxBNqqLFAGH59/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/val_orig_part0.zip)
 val_orig_part1.zip | [link](https://drive.google.com/file/d/1LJUDs7B63b7r4wek-C2d29gG1hfTOCYB/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/val_orig_part1.zip)
 
+## Camera response function
+
+Inverse crf file:
+* numpy: [crf.npy](reds/crf.npy)
+* pytorch: [crf.pt](reds/crf.pt)
+
+The inverse camera response is obtained from `cv2.createCalibrateRobertson()` function. Following the opencv convention, the color is in BGR order.
+```python
+crf_inv[:, 0, 0]  # B
+crf_inv[:, 0, 1]  # G
+crf_inv[:, 0, 2]  # R
+```
+
+* usage example (pytorch)  
+
+```python
+crf_inv = torch.from_numpy(torch.load(crf_path)).to(device, dtype).squeeze_()  # 256 x 3
+
+# 1st order approximation at RGB=250 to regularize extreme responses at RGB>250
+diff = (crf_inv[251] - crf_inv[249])/2
+for i in range(251, 256):
+    crf_inv[i] = crf_inv[i-1] + diff
+
+...
+
+buffer_tensor = buffer_tensor.permute(0,2,3,1).reshape(-1, C).mul_(255).add_(0.5).clamp_(0, 255).long() # bad naming to save GPU memory
+buffer_tensor = torch.gather(crf_inv, 0, buffer_tensor).reshape(-1,H,W,C).permute(0,3,1,2)
+```
+
 ## Updates
 
 * Until the official submission site is published, we accept email submissions to seungjun.nah@gmail.com. The results will be replied back after being manually evaluated and will be posted on the leaderboard later.

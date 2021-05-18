@@ -16,7 +16,7 @@ I am a Ph.D student majoring in computer vision at SNU computer vision lab, advi
 ## Research Interests
 
 I am interested in deep learning and low-level computer vision problems, especially visual quality enhancement.
-My recent research topics include deblurring, super-resolution, neural network acceleration.
+My recent research topics include deblurring, super-resolution, and neural network acceleration.
 
 ## Community Activities
 
@@ -28,10 +28,14 @@ My recent research topics include deblurring, super-resolution, neural network a
 
 ## Awards and Honors
 
-* **Outstanding reviewer**: ECCV 2020
-* **Outstanding reviewer**: ICCV 2019
-* **Highly cited paper award**: Department of ECE, SNU, 2018
-* **Challenge winner & best paper**: NTIRE 2017 Challenge on Single Image Super-Resolution
+* **CVPR 2021 Doctoral Consortium**
+* **Outstanding Reviewer**: [CVPR 2021](http://cvpr2021.thecvf.com/node/184)
+* **Outstanding Reviewer**: [ECCV 2020](https://eccv2020.eu/outstanding-reviewers/)
+* **Outstanding Reviewer**: [ICCV 2019](https://iccv2019.thecvf.com/best_reviewers)
+* **Highly Cited Paper Award**: Department of ECE, SNU, 2018
+* **AWS Cloud Credits for Research**, 2018
+* **Challenge Winner & Best Paper**: [NTIRE 2017](https://data.vision.ee.ethz.ch/cvl/ntire17/) Challenge on Single Image Super-Resolution
+* **Microsoft Azure Research Award**, 2017
 
 ## News
 

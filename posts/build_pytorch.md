@@ -37,7 +37,7 @@ sudo cp -rf nccl_2.9.8-1+cuda11.3_x86_64 /usr/local/
 
 * set environment variables
 
-Open your `.bashrc`
+Open your `~/.bashrc`
 
 ```bash
 CUDA_HOME=/usr/local/cuda-11.3
@@ -72,22 +72,23 @@ conda install -c pytorch magma-cuda113 -y
 ## Build from source
 
 * pytorch
+
 ```bash
 mkdir ~/local
 cd ~/local
 
 git clone --recursive https://github.com/pytorch/pytorch
 cd pytorch
-# if you are updating an existing checkout
+
 git submodule sync
 git submodule update --init --recursive
-
 
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
 USE_SYSTEM_NCCL=1 python setup.py
 ```
 
 * torchvision
+
 ```bash
 git clone https://github.com/pytorch/vision
 cd vision

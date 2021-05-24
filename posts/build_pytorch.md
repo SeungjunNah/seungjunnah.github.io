@@ -85,7 +85,7 @@ git submodule sync
 git submodule update --init --recursive
 
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
-USE_SYSTEM_NCCL=1 python setup.py
+USE_SYSTEM_NCCL=1 python setup.py install
 ```
 
 * torchvision

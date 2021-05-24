@@ -13,6 +13,7 @@ sudo sh cuda_11.3.1_465.19.01_linux.run
 ```
 
 * cudnn
+
 Visit [cudnn download page](https://developer.nvidia.com/rdp/cudnn-download)
 
 Choose `Download cuDNN v8.2.0 (April 23rd, 2021), for CUDA 11.x`

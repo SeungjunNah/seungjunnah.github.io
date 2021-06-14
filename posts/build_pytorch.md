@@ -1,3 +1,6 @@
+# [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
+___
+
 # Install pytorch from source
 
 ## Install GPU libraries
@@ -67,6 +70,7 @@ conda activate pytorch_s
 conda install astunparse numpy ninja pyyaml mkl mkl-include setuptools cmake cffi typing_extensions future six requests dataclasses -y
 
 conda install -c pytorch magma-cuda113 -y
+
 ```
 
 
@@ -85,7 +89,9 @@ git submodule sync
 git submodule update --init --recursive
 
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
-USE_SYSTEM_NCCL=1 python setup.py install
+BUILD_CAFFE2=0 USE_SYSTEM_NCCL=1 python setup.py install
+# as long as you don't need caffe2, this reduces the building time.
+# due to NCCL detection bug in pytorch. It might be fixed later.
 ```
 
 * torchvision

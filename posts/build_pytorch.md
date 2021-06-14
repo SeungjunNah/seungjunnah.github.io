@@ -91,6 +91,12 @@ cd pytorch
 git submodule sync
 git submodule update --init --recursive
 
+# if you don't like unnecessary warning messages related to dataloader when running experiments,
+# remove the line: TORCH_WARN("Leaking Caffe2 thread-pool after fork.");
+# from https://github.com/pytorch/pytorch/blob/master/caffe2/utils/threadpool/pthreadpool-cpp.cc
+# until this issue is resolved.
+# https://github.com/pytorch/pytorch/issues/57273
+
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
 BUILD_CAFFE2=0 USE_SYSTEM_NCCL=1 python setup.py install
 # as long as you don't need caffe2, this reduces the building time.

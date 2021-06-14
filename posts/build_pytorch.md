@@ -3,6 +3,8 @@ ___
 
 # Install pytorch from source
 
+Tested with Ubuntu 20.04
+
 ## Install GPU libraries
 
 * cuda & nvidia driver
@@ -10,6 +12,7 @@ ___
 ```bash
 wget https://developer.download.nvidia.com/compute/cuda/11.3.1/local_installers/cuda_11.3.1_465.19.01_linux.run
 
+# Check your OS version!
 # install the latest driver & cudatoolkit
 # NEVER!! create a symbolic link at /usr/local
 sudo sh cuda_11.3.1_465.19.01_linux.run

@@ -109,44 +109,68 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 @InProceedings{Nah_2019_CVPR_Workshops_REDS,
   author = {Nah, Seungjun and Baik, Sungyong and Hong, Seokil and Moon, Gyeongsik and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
   title = {NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {CVPR Workshops},
   month = {June},
   year = {2019}
 }
 ```
 
-* NTIRE 2019 Video Deblurring Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.pdf)]
+* NTIRE 2019 Challenge on Video Deblurring [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.pdf)]
 
 ```bibtex
 @InProceedings{Nah_2019_CVPR_Workshops_Deblur,
   author = {Nah, Seungjun and Timofte, Radu and Baik, Sungyong and Hong, Seokil and Moon, Gyeongsik and Son, Sanghyun and Lee, Kyoung Mu},
   title = {NTIRE 2019 Challenge on Video Deblurring: Methods and Results},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {CVPR Workshops},
   month = {June},
   year = {2019}
 }
 ```
 
-* NTIRE 2019 Video Super-Resolution Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.pdf)]
+* NTIRE 2019 Challenge on Video Super-Resolution [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.pdf)]
 
 ```bibtex
 @InProceedings{Nah_2019_CVPR_Workshops_SR,
   author = {Nah, Seungjun and Timofte, Radu and Gu, Shuhang and Baik, Sungyong and Hong, Seokil and Moon, Gyeongsik and Son, Sanghyun and Lee, Kyoung Mu},
   title = {NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {CVPR Workshops},
   month = {June},
   year = {2019}
 }
 ```
 
-* NTIRE 2020 Image and Video Deblurring Challenge [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)] [[slides](https://drive.google.com/file/d/1Ll3D1acvujQFXGoX-P2dRKJPcle3rH_B/view?usp=sharing)]
+* NTIRE 2020 Challenge on Image and Video Deblurring [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)] [[slides](https://drive.google.com/file/d/1Ll3D1acvujQFXGoX-P2dRKJPcle3rH_B/view?usp=sharing)]
 
 ```bibtex
 @InProceedings{Nah_2020_CVPR_Workshops_Deblur,
   author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
   title = {NTIRE 2020 Challenge on Image and Video Deblurring},
-  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {CVPR Workshops},
   month = {June},
   year = {2020}
+}
+```
+
+* NTIRE 2021 Challenge on Image Deblurring [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1wUXa6NqVuiavWnL29u4lmQPEwR_NghjV/view?usp=sharing)]
+```bibtex
+@InProceedings{Nah_2021_CVPR,
+  author = {Nah, Seungjun and Son, Sanghyun and Lee, Suyoung and Timofte, Radu and Lee, Kyoung Mu},
+  title = {NTIRE 2021 Challenge on Image Deblurring},
+  booktitle = {CVPR Workshops},
+  month = {June},
+  year = {2021},
+  pages = {149-165}
+}
+```
+
+* NTIRE 2021 Challenge on Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf)]
+```bibtex
+@InProceedings{Son_2021_CVPR,
+  author = {Son, Sanghyun and Lee, Suyoung and Nah, Seungjun and Timofte, Radu and Lee, Kyoung Mu},
+  title = {NTIRE 2021 Challenge on Video Super-Resolution},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2021},
+  pages = {166-181}
 }
 ```

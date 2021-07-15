@@ -174,3 +174,7 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
   pages = {166-181}
 }
 ```
+
+## LICENSE
+
+REDS dataset is released under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).

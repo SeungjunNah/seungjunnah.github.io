@@ -54,3 +54,7 @@ The **<font color="red">REDS_VTSR</font>** dataset was used in the AIM 2019 and 
   year = {2020}
 }
 ```
+
+## LICENSE
+
+REDS_VTSR dataset is released under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).

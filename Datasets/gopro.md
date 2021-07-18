@@ -35,9 +35,13 @@ The GOPRO_Large dataset was proposed in CVPR 2017. If you find our dataset usefu
 }
 ```
 
-### Github repository
+## Github repository
 
 The source code for training deblurring models are available:
 
 * Torch7: [DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release)
 * PyTorch: [DeepDeblur-PyTorch](https://github.com/SeungjunNah/DeepDeblur-PyTorch)
+
+## LICENSE
+
+GOPRO dataset is released under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).

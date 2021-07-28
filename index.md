@@ -28,6 +28,7 @@ My recent research topics include deblurring, super-resolution, and neural netwo
 
 ## Awards and Honors
 
+* **Distinguished Dissertation Award**: Department of ECE, SNU, 2021
 * **CVPR 2021 Doctoral Consortium**
 * **Outstanding Reviewer**: [CVPR 2021](http://cvpr2021.thecvf.com/node/184)
 * **Outstanding Reviewer**: [ECCV 2020](https://eccv2020.eu/outstanding-reviewers/)

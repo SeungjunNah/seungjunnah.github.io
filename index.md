@@ -6,7 +6,7 @@ title: Seungjun Nah
 # [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
 ___
 
-Ph. D. candidate  
+Ph. D.  
 Department of ECE, SNU, Seoul, Korea  
 email: **seungjun.nah@gmail.com**  
 Google scholar: **[profile](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**

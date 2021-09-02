@@ -20,19 +20,15 @@ My recent research topics include deblurring, super-resolution, and neural netwo
 
 ## Community Activities
 
-* **Conference reviewer**: CVPR, ICCV, ECCV, WACV, SIGGRAPH Asia
+* **Conference reviewer**: CVPR, ICCV, ECCV, WACV, SIGGRAPH Asia, NeurIPS
 * **Journal reviewer**: IJCV, TIP, TMM, TNNLS, TVCJ, STSP, SPL
 * **Workshop co-organizer**: NTIRE [2019](https://data.vision.ee.ethz.ch/cvl/ntire19/), [2020](https://data.vision.ee.ethz.ch/cvl/ntire20/), [2021](https://data.vision.ee.ethz.ch/cvl/ntire21/), AIM [2019](https://data.vision.ee.ethz.ch/cvl/aim19/), [2020](https://data.vision.ee.ethz.ch/cvl/aim19/)
 
-<!-- [NTIRE 2019](https://data.vision.ee.ethz.ch/cvl/ntire19/), [NTIRE 2020](https://data.vision.ee.ethz.ch/cvl/ntire20/), [AIM 2019](https://data.vision.ee.ethz.ch/cvl/aim19/), [AIM 2020](https://data.vision.ee.ethz.ch/cvl/aim20/) -->
-
 ## Awards and Honors
 
+* **Outstanding Reviewer**: CVPR [2021](http://cvpr2021.thecvf.com/node/184), ICCV [2019](https://iccv2019.thecvf.com/best_reviewers), [2021](http://iccv2021.thecvf.com/outstanding-reviewers), ECCV [2020](https://eccv2020.eu/outstanding-reviewers/)
 * **Distinguished Dissertation Award**: Department of ECE, SNU, 2021
 * **CVPR 2021 Doctoral Consortium**
-* **Outstanding Reviewer**: [CVPR 2021](http://cvpr2021.thecvf.com/node/184)
-* **Outstanding Reviewer**: [ECCV 2020](https://eccv2020.eu/outstanding-reviewers/)
-* **Outstanding Reviewer**: [ICCV 2019](https://iccv2019.thecvf.com/best_reviewers)
 * **Highly Cited Paper Award**: Department of ECE, SNU, 2018
 * **AWS Cloud Credits for Research**, 2018
 * **Challenge Winner & Best Paper**: [NTIRE 2017](https://data.vision.ee.ethz.ch/cvl/ntire17/) Challenge on Single Image Super-Resolution

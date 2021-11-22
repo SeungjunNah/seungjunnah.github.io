@@ -3,7 +3,7 @@ ___
 
 ## Publications (Selected)
 
-* Joonkyu Park, **Seungjun Nah**, and Kyoung Mu Lee, "Recurrence-in-Recurrence Networks for Video Deblurring," BMVC 2021  
+* Joonkyu Park, **Seungjun Nah**, and Kyoung Mu Lee, "Recurrence-in-Recurrence Networks for Video Deblurring," BMVC 2021 [[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0149.pdf)] [[slides]](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0149.html)  
 * **Seungjun Nah**, Sanghyun Son, Suyoung Lee, Radu Timofte, and Kyoung Mu Lee, "NTIRE 2021 Challenge on Image Deblurring," CVPRW 2021 [[arXiv](https://arxiv.org/abs/2104.14854#)] [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1wUXa6NqVuiavWnL29u4lmQPEwR_NghjV/edit?usp=sharing&ouid=112650891941589168375&rtpof=true&sd=true)]  
 * **Seungjun Nah**, Sanghyun Son, Jaerin Lee, and Kyoung Mu Lee, "Clean Images are Hard to Reblur: A New Clue for Deblurring," arXiv 2021 [[arXiv](https://arxiv.org/abs/2104.12665)]
 * Sanghyun Son, Jaerin Lee, **Seungjun Nah**, Radu Timofte and Kyoung Mu Lee *et al.*, "AIM 2020 Challenge on Video Temporal Super-Resolution," ECCVW 2020 [[paper](https://cv.snu.ac.kr/publication/conf/2019/aim2020_vtsr.pdf)] [[arXiv](https://arxiv.org/abs/2009.12987)] [[slides](https://drive.google.com/file/d/1C4E21NlH2H2EoQ0TidNJmT1ruEOyac8M/view?usp=sharing)]

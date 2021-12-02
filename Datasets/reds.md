@@ -18,9 +18,10 @@ Type | Train | Validation | Test
 -- | -- | -- | --
 Sharp | [train_sharp](https://drive.google.com/open?id=1YLksKtMhd2mWyVSkvhDaDLWSc1qYNCz-) | [val_sharp](https://drive.google.com/open?id=1MGeObVQ1-Z29f-myDP7-8c3u0_xECKXq) | test_sharp
 Blur | [train_blur](https://drive.google.com/open?id=1Be2cgzuuXibcqAuJekDgvHq4MLYkCgR8) | [val_blur](https://drive.google.com/open?id=1N8z2yD0GDWmh6U4d4EADERtcUgDzGrHx) | [test_blur](https://drive.google.com/file/d/1dr0--ZBKqr4P1M8lek6JKD1Vd6bhhrZT/view?usp=sharing)
-Blur + Compression | [train_blur_comp](https://drive.google.com/open?id=1hi6348BB9QQFqVx2PY7pKn32HQM89CJ1) | [val_blur_comp](https://drive.google.com/open?id=13d1uzqLdbsQzeZkWgdF5QVHqDSjfE4zZ) | [test_blur_comp](https://drive.google.com/file/d/1OctyKR3ER_YWrZxKxQsZzLis3BvLSOFO/view?usp=sharing)
+Blur + MPEG | [train_blur_comp](https://drive.google.com/open?id=1hi6348BB9QQFqVx2PY7pKn32HQM89CJ1) | [val_blur_comp](https://drive.google.com/open?id=13d1uzqLdbsQzeZkWgdF5QVHqDSjfE4zZ) | [test_blur_comp](https://drive.google.com/file/d/1OctyKR3ER_YWrZxKxQsZzLis3BvLSOFO/view?usp=sharing)
 Low Resolution | [train_sharp_bicubic](https://drive.google.com/open?id=1a4PrjqT-hShvY9IyJm3sPF0ZaXyrCozR) | [val_sharp_bicubic](https://drive.google.com/open?id=1sChhtzN9Css10gX7Xsmc2JaC-2Pzco6a) | [test_sharp_bicubic](https://drive.google.com/file/d/1y0Jle6xB41TdRK_QMJ_E8W_iBMxwq_Rh/view?usp=sharing)
 Blur + Low Resolution | [train_blur_bicubic](https://drive.google.com/open?id=10u8gthv2Q95RMCb1LeCN8N4ozB8TVjMt) | [val_blur_bicubic](https://drive.google.com/open?id=1i3NAb7EmF4fCYadGaHK54-Zgx9lIC2Gp) | [test_blur_bicubic](https://drive.google.com/file/d/14YszfzUAeAfwP0ZA2FRzAiVxxZLg7-tY/view?usp=sharing)
+Blur + JPEG | [train_blur_jpeg](https://drive.google.com/file/d/1VTXyhwrTgcaUWklG-6Dh4MyCmYvX39mW/view?usp=sharing) | [val_blur_jpeg](https://drive.google.com/file/d/1EqQljcGMcm5oCr71KpMfXREPXV3lpMGW/view?usp=sharing) | [test_blur_jpeg](https://drive.google.com/file/d/1OECITpPiSTSCdpAqWlDlfYaDiogLR-lH/view?usp=sharing)
 
 ### <font color="FireBrick">SNU CVLab Server</font>
 
@@ -28,9 +29,10 @@ Type | Train | Validation | Test
 -- | -- | -- | --
 Sharp | [train_sharp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_sharp.zip) | [val_sharp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_sharp.zip) | test_sharp
 Blur | [train_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur.zip) | [val_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur.zip) | [test_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur.zip)
-Blur + Compression | [train_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_comp.zip) | [val_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_comp.zip) | [test_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_comp.zip)
+Blur + MPEG | [train_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_comp.zip) | [val_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_comp.zip) | [test_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_comp.zip)
 Low Resolution | [train_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_sharp_bicubic.zip) | [val_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_sharp_bicubic.zip) | [test_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_sharp_bicubic.zip)
 Blur + Low Resolution | [train_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_bicubic.zip) | [val_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_bicubic.zip) | [test_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_bicubic.zip)
+Blur + JPEG | [train_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_jpeg.zip) | [val_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_jpeg.zip) | [test_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_jpeg.zip)
 
 ## <font color="red">REDS</font> 120fps
 

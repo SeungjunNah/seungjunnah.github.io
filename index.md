@@ -6,16 +6,14 @@ title: Seungjun Nah
 # [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
 ___
 
-<!-- Postdoctoral Researcher  
-Department of ECE, SNU, Seoul, Korea   -->
 Research Scientist  
 NVIDIA  
 email: **seungjun.nah@gmail.com**  
 Google scholar: **[profile](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**
 
 
-I am a research scientist at NVIDIA.
-<!-- I am a postdoctoral researcher at SNU computer vision lab, led by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/). -->
+I am a research scientist at NVIDIA.  
+I received my Ph.D. from Department of ECE at Seoul National University, Korea, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
 
 ## Research Interests
 
@@ -24,7 +22,7 @@ My recent research topics include deblurring, super-resolution, and neural netwo
 
 ## Community Activities
 
-* **Conference reviewer**: CVPR, ICCV, ECCV, WACV, SIGGRAPH Asia, NeurIPS
+* **Conference reviewer**: CVPR, ICCV, ECCV, WACV, SIGGRAPH Asia, NeurIPS, ICLR
 * **Journal reviewer**: IEEE TIP, TNNLS, JSTSP, TMM, TCI, SPL. Springer IJCV, TVCJ, Elsevier CVIU
 * **Workshop reviewer**: NTIRE 2019-2021, AIM 2019-2020, LCI [2021](https://sites.google.com/view/lci-iccv2021)
 * **Workshop co-organizer**: NTIRE [2019](https://data.vision.ee.ethz.ch/cvl/ntire19/), [2020](https://data.vision.ee.ethz.ch/cvl/ntire20/), [2021](https://data.vision.ee.ethz.ch/cvl/ntire21/), AIM [2019](https://data.vision.ee.ethz.ch/cvl/aim19/), [2020](https://data.vision.ee.ethz.ch/cvl/aim19/)

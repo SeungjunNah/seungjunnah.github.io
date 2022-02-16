@@ -39,7 +39,7 @@ The **<font color="red">REDS_VTSR</font>** dataset was used in the AIM 2019 and 
 @InProceedings{Nah_2019_ICCV_Workshops_REDS_VTSR,
   author = {Nah, Seungjun and Son, Sanghyun and Timofte, Radu and Lee, Kyoung Mu},
   title = {AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results},
-  booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+  booktitle = {ICCV Workshops},
   month = {Oct},
   year = {2019}
 }
@@ -51,7 +51,7 @@ The **<font color="red">REDS_VTSR</font>** dataset was used in the AIM 2019 and 
 @InProceedings{Son_2020_ECCV_Workshops_VTSR,
   author = {Son, Sanghyun and Lee, Jaerin and Nah, Seungjun and Timofte, Radu and Lee, Kyoung Mu},
   title = {AIM 2020 Challenge on Video Temporal Super-Resolution},
-  booktitle = {European Conference on Computer Vision Workshops},
+  booktitle = {ECCV Workshops},
   month = {Aug},
   year = {2020}
 }

@@ -156,7 +156,7 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 * NTIRE 2021 Challenge on Image Deblurring [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1wUXa6NqVuiavWnL29u4lmQPEwR_NghjV/view?usp=sharing)]
 
 ```bibtex
-@InProceedings{Nah_2021_CVPR,
+@InProceedings{Nah_2021_CVPR_Workshops,
   author = {Nah, Seungjun and Son, Sanghyun and Lee, Suyoung and Timofte, Radu and Lee, Kyoung Mu},
   title = {NTIRE 2021 Challenge on Image Deblurring},
   booktitle = {CVPR Workshops},
@@ -169,10 +169,10 @@ The **<font color="red">REDS</font>** dataset was used in the NTIRE 2019 and NTI
 * NTIRE 2021 Challenge on Video Super-Resolution [[paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Son_NTIRE_2021_Challenge_on_Video_Super-Resolution_CVPRW_2021_paper.pdf)]
 
 ```bibtex
-@InProceedings{Son_2021_CVPR,
+@InProceedings{Son_2021_CVPR_Workshops,
   author = {Son, Sanghyun and Lee, Suyoung and Nah, Seungjun and Timofte, Radu and Lee, Kyoung Mu},
   title = {NTIRE 2021 Challenge on Video Super-Resolution},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  booktitle = {CVPR Workshops},
   month = {June},
   year = {2021},
   pages = {166-181}

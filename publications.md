@@ -3,7 +3,7 @@ ___
 
 ## Publications (Selected)
 
-* Cheeun Hong, Sungyong Baik, Heewon Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Contents-Aware Dynamic Quantization for Image Super-Resolution," ECCV 2022.  
+* Cheeun Hong, Sungyong Baik, Heewon Kim, **Seungjun Nah**, and Kyoung Mu Lee, "Content-Aware Dynamic Quantization for Image Super-Resolution," ECCV 2022.  
 * Junghun Oh, Heewon Kim, **Seungjun Nah**, Cheeun Hong, Jonghyun Choi, and Kyoung Mu Lee, "Attentive Fine-Grained Structured Sparsity for Image Restoration," CVPR 2022 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)][[arXiv](https://arxiv.org/pdf/2204.12266.pdf)]  
 * **Seungjun Nah**, Sanghyun Son, Jaerin Lee, and Kyoung Mu Lee, "Clean Images are Hard to Reblur: Exploiting the Ill-Posed Inverse Task for Dynamic Scene Deblurring," ICLR 2022 [[paper](https://openreview.net/pdf?id=kezNJydWvE)] [[presentation](https://iclr.cc/virtual/2022/poster/6155)] [[slides](https://docs.google.com/presentation/d/1vOOr2jMrtdwTzDpkU2MzT7yu5W-ixBSg/edit?usp=sharing&ouid=112650891941589168375&rtpof=true&sd=true)] [[youtube](https://youtu.be/A3Eq_Dtz7d0)] [[poster](https://drive.google.com/file/d/15x4dHb5WPRRdjhQo9z1eA7XeBFT3mjVB/view?usp=sharing)]  
 * Joonkyu Park, **Seungjun Nah**, and Kyoung Mu Lee, "Recurrence-in-Recurrence Networks for Video Deblurring," BMVC 2021 [[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0149.pdf)] [[slides]](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0149.html)  

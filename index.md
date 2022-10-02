@@ -29,6 +29,7 @@ My recent research topics include deblurring, super-resolution, and neural netwo
 
 ## Awards and Honors
 
+* **KCCV Sang-Uk Lee Prize**, 2022
 * **Outstanding Reviewer**: CVPR [2021](http://cvpr2021.thecvf.com/node/184), ICCV [2019](https://iccv2019.thecvf.com/best_reviewers), [2021](http://iccv2021.thecvf.com/outstanding-reviewers), ECCV [2020](https://eccv2020.eu/outstanding-reviewers/)
 * **Distinguished Dissertation Award**: Department of ECE, SNU, 2021
 * **CVPR 2021 Doctoral Consortium**

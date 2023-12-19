@@ -17,8 +17,8 @@ I received my Ph.D. from Department of ECE at Seoul National University, Korea, 
 
 ## Research Interests
 
-I am interested in deep learning and low-level computer vision problems, especially visual quality enhancement.
-My recent research topics include deblurring, super-resolution, and neural network acceleration.
+I am interested in generative AI and low-level computer vision problems including visual quality enhancement.
+My recent research topics include image/video generation, deblurring, super-resolution, and neural network acceleration.
 
 ## Community Activities
 
@@ -40,6 +40,7 @@ My recent research topics include deblurring, super-resolution, and neural netwo
 
 ## News
 
+* We are looking for 2024 Summer PhD interns at NVIDIA **[Deep Imagination Research](https://research.nvidia.com/labs/dir/)** team. Please reach out by email if interested.
 * I'm co-organizing the **[6th NTIRE workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/)** in conjunction with CVPR 2021. I, [Sanghyun Son](https://scholar.google.com/citations?user=nWaSdu0AAAAJ&hl=en), [Suyoung Lee](https://scholar.google.com/citations?user=s0uhy1gAAAAJ&hl=en) are in charge of image deblurring and video super-resolution challenge tracks. **Image Deblurring [Track 1.](https://competitions.codalab.org/competitions/28073)** Low Resolution, **[Track 2.](https://competitions.codalab.org/competitions/28074)** JPEG artifacts, **Video Super-Resolution [Track 1.](https://competitions.codalab.org/competitions/28051)** Spatial, **[Track 2.](https://competitions.codalab.org/competitions/28072)** Spatio-Temporal.
 * I'm co-organizing the **[2nd AIM workshop and challenges](https://data.vision.ee.ethz.ch/cvl/aim20/)** in conjunction with ECCV 2020. [Sanghyun Son](https://scholar.google.com/citations?user=nWaSdu0AAAAJ&hl=en), I and [Jaerin Lee](https://cv.snu.ac.kr/index.php/students/) are in charge of **Video Temporal Super-Resolution [Challenge](https://competitions.codalab.org/competitions/24584)**.
 * I'm co-organizing the **[5th NTIRE workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire20/)** in conjunction with CVPR 2020. I and [Sanghyun Son](https://scholar.google.com/citations?user=nWaSdu0AAAAJ&hl=en) are in charge of **Image/Video Deblurring** challenge tracks. **[Track 1](https://competitions.codalab.org/competitions/22233)**: Image deblurring, **[Track 2](https://competitions.codalab.org/competitions/22234)**: Image deblurring on mobile devices, **[Track 3](https://competitions.codalab.org/competitions/22235)**: Video deblurring.

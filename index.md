@@ -6,13 +6,13 @@ title: Seungjun Nah
 # [Publications](publications) | [Datasets](Datasets/datasets) | [CV](cv.pdf)
 ___
 
-Research Scientist  
+Senior Research Scientist  
 NVIDIA  
 email: **seungjun.nah@gmail.com**  
 Google scholar: **[profile](https://scholar.google.com/citations?user=hEr2AKsAAAAJ&hl=en)**
 
 
-I am a research scientist at NVIDIA.  
+I am a senior research scientist at NVIDIA.  
 I received my Ph.D. from Department of ECE at Seoul National University, Korea, advised by [prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/faculty/).
 
 ## Research Interests

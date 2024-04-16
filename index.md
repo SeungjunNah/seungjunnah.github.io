@@ -22,6 +22,7 @@ My recent research topics include image/video generation, deblurring, super-reso
 
 ## Community Activities
 
+* **Area Chair**: ICLR 2024
 * **Conference reviewer**: CVPR, ICCV, ECCV, WACV, SIGGRAPH, SIGGRAPH Asia, NeurIPS, AAAI, ICLR, ICML
 * **Journal reviewer**: IEEE TPAMI, TIP, TNNLS, JSTSP, TMM, TCI, SPL. Springer IJCV, TVCJ, Elsevier CVIU
 * **Workshop reviewer**: NTIRE 2019-2021, AIM 2019-2020, LCI [2021](https://sites.google.com/view/lci-iccv2021)

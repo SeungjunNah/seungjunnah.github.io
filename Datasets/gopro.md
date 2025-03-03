@@ -11,10 +11,10 @@ Training and Test set are publicly available.
 * [GOPRO_Large](https://drive.google.com/file/d/1y4wvPdOG3mojpFCHTqLgriexhbjoWVkK/view?usp=sharing): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
 * [GOPRO_Large_all](https://drive.google.com/file/d/1rJTmM9_mLCNzBUUhYIGldBYgup279E_f/view?usp=sharing): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
 
-### <font color="FireBrick">SNU CVLab Server</font>
+### <font color="FireBrick">Huggingface</font>
 
-* [GOPRO_Large](http://data.cv.snu.ac.kr:8008/webdav/dataset/GOPRO/GOPRO_Large.zip): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
-* [GOPRO_Large_all](http://data.cv.snu.ac.kr:8008/webdav/dataset/GOPRO/GOPRO_Large_all.zip): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
+* [GOPRO_Large](https://huggingface.co/datasets/snah/GOPRO_Large/resolve/main/GOPRO_Large.zip): Blurry and sharp image pairs. Blurry images includes both gamma corrected and not corrected (linear CRF) versions.
+* [GOPRO_Large_all](https://huggingface.co/datasets/snah/GOPRO_Large/resolve/main/GOPRO_Large_all.zip): All the sharp images used to generate blurry images. You can generate new blurry images by accumulating differing number of sharp frames.
 
 
 ## Reference

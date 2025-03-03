@@ -8,7 +8,7 @@ ___
 
 We provide the **<font color="red">RE</font>**alistic and **<font color="red">D</font>**ynamic **<font color="red">S</font>**cenes dataset for video deblurring and super-resolution. Train and validation subsets are publicly available.
 The dataset can be downloaded by running the python code or clicking the links below.
-Downloads are available via Google Drive and SNU CVLab server.
+Downloads are available via Google Drive and Huggingface.
 
 [download_REDS.py](https://gist.github.com/SeungjunNah/b10d369b92840cb8dd2118dd4f41d643)
 
@@ -23,41 +23,41 @@ Low Resolution | [train_sharp_bicubic](https://drive.google.com/open?id=1a4PrjqT
 Blur + Low Resolution | [train_blur_bicubic](https://drive.google.com/open?id=10u8gthv2Q95RMCb1LeCN8N4ozB8TVjMt) | [val_blur_bicubic](https://drive.google.com/open?id=1i3NAb7EmF4fCYadGaHK54-Zgx9lIC2Gp) | [test_blur_bicubic](https://drive.google.com/file/d/14YszfzUAeAfwP0ZA2FRzAiVxxZLg7-tY/view?usp=sharing)
 Blur + JPEG | [train_blur_jpeg](https://drive.google.com/file/d/1VTXyhwrTgcaUWklG-6Dh4MyCmYvX39mW/view?usp=sharing) | [val_blur_jpeg](https://drive.google.com/file/d/1EqQljcGMcm5oCr71KpMfXREPXV3lpMGW/view?usp=sharing) | [test_blur_jpeg](https://drive.google.com/file/d/1OECITpPiSTSCdpAqWlDlfYaDiogLR-lH/view?usp=sharing)
 
-### <font color="FireBrick">SNU CVLab Server</font>
+### <font color="FireBrick">Huggingface</font>
 
 Type | Train | Validation | Test
 -- | -- | -- | --
-Sharp | [train_sharp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_sharp.zip) | [val_sharp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_sharp.zip) | test_sharp
-Blur | [train_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur.zip) | [val_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur.zip) | [test_blur](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur.zip)
-Blur + MPEG | [train_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_comp.zip) | [val_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_comp.zip) | [test_blur_comp](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_comp.zip)
-Low Resolution | [train_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_sharp_bicubic.zip) | [val_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_sharp_bicubic.zip) | [test_sharp_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_sharp_bicubic.zip)
-Blur + Low Resolution | [train_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_bicubic.zip) | [val_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_bicubic.zip) | [test_blur_bicubic](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_bicubic.zip)
-Blur + JPEG | [train_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/train_blur_jpeg.zip) | [val_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/val_blur_jpeg.zip) | [test_blur_jpeg](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/test_blur_jpeg.zip)
+Sharp | [train_sharp](https://huggingface.co/datasets/snah/REDS/resolve/main/train_sharp.zip) | [val_sharp](https://huggingface.co/datasets/snah/REDS/resolve/main/val_sharp.zip) | test_sharp
+Blur | [train_blur](https://huggingface.co/datasets/snah/REDS/resolve/main/train_blur.zip) | [val_blur](https://huggingface.co/datasets/snah/REDS/resolve/main/val_blur.zip) | [test_blur](https://huggingface.co/datasets/snah/REDS/resolve/main/test_blur.zip)
+Blur + MPEG | [train_blur_comp](https://huggingface.co/datasets/snah/REDS/resolve/main/train_blur_comp.zip) | [val_blur_comp](https://huggingface.co/datasets/snah/REDS/resolve/main/val_blur_comp.zip) | [test_blur_comp](https://huggingface.co/datasets/snah/REDS/resolve/main/test_blur_comp.zip)
+Low Resolution | [train_sharp_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/train_sharp_bicubic.zip) | [val_sharp_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/val_sharp_bicubic.zip) | [test_sharp_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/test_sharp_bicubic.zip)
+Blur + Low Resolution | [train_blur_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/train_blur_bicubic.zip) | [val_blur_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/val_blur_bicubic.zip) | [test_blur_bicubic](https://huggingface.co/datasets/snah/REDS/resolve/main/test_blur_bicubic.zip)
+Blur + JPEG | [train_blur_jpeg](https://huggingface.co/datasets/snah/REDS/resolve/main/train_blur_jpeg.zip) | [val_blur_jpeg](https://huggingface.co/datasets/snah/REDS/resolve/main/val_blur_jpeg.zip) | [test_blur_jpeg](https://huggingface.co/datasets/snah/REDS/resolve/main/test_blur_jpeg.zip)
 
 ## <font color="red">REDS</font> 120fps
 
 REDS dataset is generated from 120 fps videos, synthesizing blurry frames by merging subsequent frames. The frames that are used to generate blurry images are available below for training and validation data. Due to the large file sizes, the dataset is divided into multiple zip files. Each zip file contains 15 sequences of length 500 that is equivalent to the time duration of the standard 24 fps version above. Each file size is around 10 GB.
 
-Type | <font color="FireBrick">Google Drive</font> | <font color="FireBrick">SNU CVLab Server</font>
+Type | <font color="FireBrick">Google Drive</font> | <font color="FireBrick">Huggingface</font>
 -- | -- | --
-train_orig_part0.zip | [link](https://drive.google.com/file/d/1SbbGH3V5PbqfezDaWMMK4eeDCFUD54HS/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part0.zip)
-train_orig_part1.zip | [link](https://drive.google.com/file/d/14syvaC0IMB4NtPFvdop5dzqxllUKXTKS/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part1.zip)
-train_orig_part2.zip | [link](https://drive.google.com/file/d/11fluEfEBopcX-cGn5SFgwf_h8JfQGt7A/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part2.zip)
-train_orig_part3.zip | [link](https://drive.google.com/file/d/1R7QgDyPWU0dikl1st5XjDb308w-96baT/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part3.zip)
-train_orig_part4.zip | [link](https://drive.google.com/file/d/1coHJKOUxBkHQIAOmQcTNRrrp27WV0B9r/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part4.zip)
-train_orig_part5.zip | [link](https://drive.google.com/file/d/1vUpP0UYaqCQAiAYYS2z5_YEwZg6yXt6Y/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part5.zip)
-train_orig_part6.zip | [link](https://drive.google.com/file/d/1SIhKxGoTEo6NsmH9qR-XEqzppACdndKU/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part6.zip)
-train_orig_part7.zip | [link](https://drive.google.com/file/d/1ihKZf11vepVfJ4Apn_NOda1Ok5o6O0C0/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part7.zip)
-train_orig_part8.zip | [link](https://drive.google.com/file/d/1A0DT8xI0UerY4yFcyVnBJDtLm3u3NarG/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part8.zip)
-train_orig_part9.zip | [link](https://drive.google.com/file/d/1GjExuzbU7TEIpdP2aKqAKCCk2VlhdTPM/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part9.zip)
-train_orig_part10.zip | [link](https://drive.google.com/file/d/11vmraP75tis-8n8s53pvO5NtwDAKtfKl/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part10.zip)
-train_orig_part11.zip | [link](https://drive.google.com/file/d/1fvA9FBKXHrm5FL2IRofsVAITe5D4Fi_A/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part11.zip)
-train_orig_part12.zip | [link](https://drive.google.com/file/d/1MOkuFqbkj35H-fkP0PS3igAuE_LrAvTv/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part12.zip)
-train_orig_part13.zip | [link](https://drive.google.com/file/d/1Rnt0kmCnrnQtd-QYY1lPWpJz13jCLSXJ/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part13.zip)
-train_orig_part14.zip | [link](https://drive.google.com/file/d/1joFdd81DJujDfUMRdfCCAJMAK6rfFMIK/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part14.zip)
-train_orig_part15.zip | [link](https://drive.google.com/file/d/1izQaGBPZpBj5Pmr0a8whPX-RbAIOZi8x/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/train_orig_part15.zip)
-val_orig_part0.zip | [link](https://drive.google.com/file/d/1XqpCRaahvF1-mQMAeXfUxBNqqLFAGH59/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/val_orig_part0.zip)
-val_orig_part1.zip | [link](https://drive.google.com/file/d/1LJUDs7B63b7r4wek-C2d29gG1hfTOCYB/view?usp=sharing) | [link](http://data.cv.snu.ac.kr:8008/webdav/dataset/REDS/orig/val_orig_part1.zip)
+train_orig_part0.zip | [link](https://drive.google.com/file/d/1SbbGH3V5PbqfezDaWMMK4eeDCFUD54HS/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part0.zip)
+train_orig_part1.zip | [link](https://drive.google.com/file/d/14syvaC0IMB4NtPFvdop5dzqxllUKXTKS/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part1.zip)
+train_orig_part2.zip | [link](https://drive.google.com/file/d/11fluEfEBopcX-cGn5SFgwf_h8JfQGt7A/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part2.zip)
+train_orig_part3.zip | [link](https://drive.google.com/file/d/1R7QgDyPWU0dikl1st5XjDb308w-96baT/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part3.zip)
+train_orig_part4.zip | [link](https://drive.google.com/file/d/1coHJKOUxBkHQIAOmQcTNRrrp27WV0B9r/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part4.zip)
+train_orig_part5.zip | [link](https://drive.google.com/file/d/1vUpP0UYaqCQAiAYYS2z5_YEwZg6yXt6Y/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part5.zip)
+train_orig_part6.zip | [link](https://drive.google.com/file/d/1SIhKxGoTEo6NsmH9qR-XEqzppACdndKU/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part6.zip)
+train_orig_part7.zip | [link](https://drive.google.com/file/d/1ihKZf11vepVfJ4Apn_NOda1Ok5o6O0C0/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part7.zip)
+train_orig_part8.zip | [link](https://drive.google.com/file/d/1A0DT8xI0UerY4yFcyVnBJDtLm3u3NarG/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part8.zip)
+train_orig_part9.zip | [link](https://drive.google.com/file/d/1GjExuzbU7TEIpdP2aKqAKCCk2VlhdTPM/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part9.zip)
+train_orig_part10.zip | [link](https://drive.google.com/file/d/11vmraP75tis-8n8s53pvO5NtwDAKtfKl/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part10.zip)
+train_orig_part11.zip | [link](https://drive.google.com/file/d/1fvA9FBKXHrm5FL2IRofsVAITe5D4Fi_A/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part11.zip)
+train_orig_part12.zip | [link](https://drive.google.com/file/d/1MOkuFqbkj35H-fkP0PS3igAuE_LrAvTv/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part12.zip)
+train_orig_part13.zip | [link](https://drive.google.com/file/d/1Rnt0kmCnrnQtd-QYY1lPWpJz13jCLSXJ/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part13.zip)
+train_orig_part14.zip | [link](https://drive.google.com/file/d/1joFdd81DJujDfUMRdfCCAJMAK6rfFMIK/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part14.zip)
+train_orig_part15.zip | [link](https://drive.google.com/file/d/1izQaGBPZpBj5Pmr0a8whPX-RbAIOZi8x/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/train_orig_part15.zip)
+val_orig_part0.zip | [link](https://drive.google.com/file/d/1XqpCRaahvF1-mQMAeXfUxBNqqLFAGH59/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/val_orig_part0.zip)
+val_orig_part1.zip | [link](https://drive.google.com/file/d/1LJUDs7B63b7r4wek-C2d29gG1hfTOCYB/view?usp=sharing) | [link](https://huggingface.co/datasets/snah/REDS_orig/resolve/main/val_orig_part1.zip)
 
 ## Camera response function
 
@@ -92,6 +92,8 @@ buffer_tensor = torch.gather(crf_inv, 0, buffer_tensor).reshape(-1,H,W,C).permut
 ```
 
 ## Updates
+
+* (2025-03-03) Huggingface downloads are now available, replacing SNU CVLab server.
 
 * Until the official submission site is published, we accept email submissions to seungjun.nah@gmail.com. The results will be replied back after being manually evaluated and will be posted on the leaderboard later.
 
